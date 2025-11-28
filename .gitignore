@@ -9,7 +9,7 @@ venv/
 
 Exclude large clean data files and Power BI workbooks
 
-cleaned_sales_data.csv
+sales_data_processed.csv
 sales_data_sample.csv
 *.pbix
 *.pbit
